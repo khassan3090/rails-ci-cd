@@ -9,7 +9,7 @@ jobs:
       id: slack
       uses: slackapi/slack-github-action@v1.15.0
       with:
-        channel-id: 'CTAAHRA79'
+        channel-id: 'C02GRGN1PGU'
         slack-message: 'posting from a github action!'
         payload: "{\"key\":\"value\",\"foo\":\"bar\"}"
       env:
