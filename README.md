@@ -1,8 +1,4 @@
-# Todolist Example for Hatchbox.io
+# Todolist Example for github actions deploy to heroku and slack integerations
 
 This Rails app is a simple little example Postgres and Rails application
 to showcase how easy it is to deploy to
-[Hatchbox.io](https://hatchbox.io). All you've got to do is
-select this repository to deploy on your server and you're all set!
-
-Hatchbox.io is built by [Chris Oliver](https://excid3.com) of [GoRails](https://gorails.com).
